@@ -7,7 +7,7 @@ lingua-language-detector
 Pillow
 ruff
 mypy>=1.0,<1.5
-black>=23.0,<24.0
+black>=26.10.0,<27.0
 isort>=5.12,<5.13
 pytest
 pytest-sphinx
@@ -25,7 +25,7 @@ sphinx-autodoc-typehints==1.23.3
 packaging
 necessary
 accelerate>=0.34.2
-datasets==3.0.0
+datasets==5.0.1
 peft
 wandb
 omegaconf
